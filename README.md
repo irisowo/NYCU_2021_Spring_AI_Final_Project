@@ -1,17 +1,13 @@
 # AI_final_project
 
-:::info
 * Comparison of Models
-![](https://i.imgur.com/WcgQKNk.png)
+<img src="https://i.imgur.com/WcgQKNk.png" alt="drawing" style="width:100;"/>
 
 * Percentage of Positive title 
-![](https://i.imgur.com/iCBma8L.png)
+<img src="https://i.imgur.com/iCBma8L.png" alt="drawing" style="width:100;"/>
 
-* cna's(中央社) first 10 rows of postive result
-![](https://i.imgur.com/LeitNtz.png)
+* cna's(中央社) first 10 rows of result
+<img src="https://i.imgur.com/LeitNtz.png" width = "500"/>
 
-
-* ebc's(東森) first 10 rows of postive result
-![](https://i.imgur.com/0erNXWC.png)
-
-:::
+* ebc's(東森) first 10 rows of result
+<img src="https://i.imgur.com/0erNXWC.png" width = "500"/>
